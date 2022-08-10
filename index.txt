@@ -1,0 +1,175 @@
+LOST Code
+
+1>>>>>>>>>
+<!-- jhasearch -->
+                    <div class="portfolio-item">
+                        <div class="portfolio-item-thumbnail">
+                            <img src="./images/gifs/jha-search.gif" alt="image">
+                            <!-- <video src="./images/portfolio/jha-search.mp4"  loop muted style="display:none;"></video> -->
+
+                        </div>
+                        <h3 class="portfolio-item-title">Jha Search - Search Engine</h3>
+                        <button type="button" class="btn view-more-btn">View More</button>
+                        <div class="portfolio-item-details">
+                            <div class="description">
+                                <p>Website which works like a search engine. Is user scraping concept to scrape the data
+                                    from the google and shows it in a clean way. It UI is clean. Do check it!</p>
+                            </div>
+                            <div class="general-info">
+                                <ul>
+                                    <li style="display: flex; flex-wrap: wrap;">Technology Used :
+                                        <br> <br>
+                                        <div class="skills" style="margin: -3px 10px;">
+                                            <div class="skill-item">HTML5</div>
+                                            <div class="skill-item">CSS3</div>
+                                            <div class="skill-item">JavaScript</div>
+                                            <div class="skill-item">JQuery</div>
+                                            <div class="skill-item">Django</div>
+                                        </div>
+                                    </li>
+                                    <li>View Online - <span><a href="https://jhasearch.pythonanywhere.com/"
+                                                target="_blank"> jhasearch.pythonanywhere.com</a></span></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- covid-resource  -->
+                    <div class="portfolio-item">
+                        <div class="portfolio-item-thumbnail">
+                            <img src="./images/gifs/covid-resource.gif" alt="image">
+                            <!-- <video src="./images/gifs/covid-resource.gif"  loop muted style="display:none;"></video> -->
+
+                        </div>
+                        <h3 class="portfolio-item-title">Covid Resources Nepal Website</h3>
+                        <button type="button" class="btn view-more-btn">View More</button>
+                        <div class="portfolio-item-details">
+                            <div class="description">
+                                <p>A common source for resources, donation campaigns, support systems, and Nepal’s
+                                    response to COVID-19 in one place.</p>
+                            </div>
+                            <div class="general-info">
+                                <ul>
+                                    <li style="display: flex; flex-wrap: wrap;">Technology Used :
+                                        <br><br>
+                                        <div class="skills" style="margin: -3px 10px;">
+                                            <div class="skill-item">HTML5</div>
+                                            <div class="skill-item">CSS3</div>
+                                            <div class="skill-item">JavaScript</div>
+                                            <div class="skill-item">JQuery</div>
+                                            <div class="skill-item">React</div>
+                                            <div class="skill-item">Bootstrap</div>
+                                            <div class="skill-item">SQL</div>
+                                            <div class="skill-item">Django</div>
+                                        </div>
+                                    </li>
+                                    <li>Role -<span>Backend</span></li>
+                                    <li>View Online - <span><a href="https://covidresourcesnepal.com/"
+                                                target="_blank">covidresourcesnepal.com</a></span></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- globalblog -->
+                    <div class="portfolio-item">
+                        <div class="portfolio-item-thumbnail">
+                            <img src="./images/gifs/global-blog.gif" alt="image">
+                            <!-- <video src="./images/portfolio/global-blog.mp4"  loop muted style="display:none;"></video> -->
+
+                        </div>
+                        <h3 class="portfolio-item-title">Global Blog Website</h3>
+                        <button type="button" class="btn view-more-btn">View More</button>
+                        <div class="portfolio-item-details">
+                            <div class="description">
+                                <p>GLOBAL BLOG is the website which has information on various topics. You can find here
+                                    interesting articles which you can read to gain knowlege or spend time. If you are
+                                    fond of plants and want to know how to care about it you are in the right place, you
+                                    can get here all the information on how to care and propagate different plants. If
+                                    you are finding a place to learn coding for free then you can learn here without
+                                    paying a penny. You can also use many tools made by our team menbers for free.</p>
+                            </div>
+                            <div class="general-info">
+                                <ul>
+                                    <li style="display: flex; flex-wrap: wrap;">Technology Used :
+                                        <br> <br>
+                                        <div class="skills" style="margin: -3px 10px;">
+                                            <div class="skill-item">HTML5</div>
+                                            <div class="skill-item">CSS3</div>
+                                            <div class="skill-item">JavaScript</div>
+                                            <div class="skill-item">JQuery</div>
+                                            <div class="skill-item">Tailwind CSS</div>
+                                        </div>
+                                    </li>
+                                    <li>View Online - <span><a href="https://global-blog.udbj.repl.co/"
+                                                target="_blank">global-blog.udbj.repl.co</a></span></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Autoplot Maker And Predictor-->
+                    <div class="portfolio-item">
+                        <div class="portfolio-item-thumbnail">
+                            <img src="./images/gifs/auto-plot.gif" alt="image">
+                            <!-- <video src="./images/portfolio/auto-plot.mp4"  loop muted style="display:none;"></video> -->
+
+                        </div>
+                        <h3 class="portfolio-item-title">Autoplot Maker And Predictor</h3>
+                        <button type="button" class="btn view-more-btn">View More</button>
+                        <div class="portfolio-item-details">
+                            <div class="description">
+                                <p>This project makes easier to make plots, You just have to give your csv/ xlsx file
+                                    name. Its simple but very usefull for everyone. Do check it out!</p>
+                            </div>
+                            <div class="general-info">
+                                <ul>
+                                    <li style="display: flex; flex-wrap: wrap;">Technology Used :
+                                        <br> <br>
+                                        <div class="skills" style="margin: -3px 10px;">
+                                            <div class="skill-item">Python</div>
+                                            <div class="skill-item">Streamlit</div>
+                                        </div>
+                                    </li>
+                                    <li>View Online - <span><a
+                                                href="https://share.streamlit.io/binayakjha/autoplot-web/main/main2.py"
+                                                target="_blank">
+                                                share.streamlit.io/binayakjha/autoplot-web/main/main2.py</a></span></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="portfolio-item">
+                        <div class="portfolio-item-thumbnail">
+                            <img src="/images/dristi.jpeg" alt="image">
+                            <!-- <video src="./images/portfolio/lofa.mp4"  loop muted style="display:none;"></video> -->
+                        </div>
+                        <h3 class="portfolio-item-title">Drishti</h3>
+                        <button type="button" class="btn view-more-btn">View More</button>
+                        <div class="portfolio-item-details">
+                            <div class="description">
+                                <p>Drishti is an open-source cross-platform mobile application project at Incubate Nepal
+                                    that incorporates Machine Learning and Artificial Intelligence to help visually
+                                    impaired people recognize different currency bills and perform daily cash
+                                    transactions more effectively. We plan to expand Drishti to other applications like
+                                    Short Text and Document.</p>
+                            </div>
+                            <div class="general-info">
+                                <ul>
+                                    <li style="display: flex; flex-wrap: wrap;">Technology Used :
+                                        <br> <br>
+                                        <div class="skills" style="margin: -3px 10px;">
+                                            <div class="skill-item">Flutter</div>
+                                            <div class="skill-item">PyTorch</div>
+                                            <div class="skill-item">Tensorflow</div>
+                                            <div class="skill-item"> Tflite (Tensorflow Lite)</div>
+                                            <div class="skill-item">HTML</div>
+                                            <div class="skill-item">CSS</div>
+                                            <div class="skill-item">JavaScript</div>
+                                        </div>
+                                    </li>
+                                    <li>View Online - <span><a
+                                                href="https://play.google.com/store/apps/details?id=com.drishtinepal"
+                                                target="_blank"> download now! </a></span></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
