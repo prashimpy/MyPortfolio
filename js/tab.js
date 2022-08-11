@@ -14,18 +14,20 @@ tabsContainer.addEventListener("click",(e) =>{
 });
 
 // For Portfolio Slider
-const tabsContainer1 = document.querySelector('.portfolio-tabs');
-aboutSection = document.querySelector('.port-item .active');
+// const tabsContainer1 = document.querySelector('.portfolio-tabs');
+// aboutSection = document.querySelector('.portfolio-section');
 
-tabsContainer1.addEventListener("click",(e) =>{
-    if(e.target.classList.contains("port-item") && !e.target.classList.contains("active")){
-        tabsContainer1.querySelector(".active").classList.remove("active");
-        e.target.classList.add("active");
-        const target = e.target.getAttribute("data-target");
-        aboutSection.querySelector(".row .active").classList.remove("active");
-        aboutSection.querySelector(target).classList.add("active");
-    }
-});
+// tabsContainer1.addEventListener("click",(e) =>{
+//     if(e.target.classList.contains("port-item") && !e.target.classList.contains("active")){
+//         tabsContainer1.querySelector(".active").classList.remove("active");
+//         e.target.classList.add("active");
+        
+//         const target = e.target.getAttribute("data-target");
+//         aboutSection.querySelector(".tab-content.active").classList.remove("active");
+//         aboutSection.querySelector(target).classList.add("active");
+//         console.log("clicked");
+//     }
+// });
 
 // Portfolio scripts
 document.addEventListener("click",(e) => {
